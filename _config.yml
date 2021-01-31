@@ -1,1 +1,5 @@
-
+theme: jekyll-theme-minimal
+title: OnceXchange
+logo: images/enso9c.jpg
+description: OpeN Calculation EXchange
+show_downloads: false
