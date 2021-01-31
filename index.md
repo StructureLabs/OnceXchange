@@ -34,5 +34,5 @@ Example list
 
 **documentation** (https://www.rivtdocs.net/) 
 
-**contact** (mailto:oncexchange@gmail.com)
+**contact** (oncexchange@gmail.com)
 
