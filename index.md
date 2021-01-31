@@ -30,7 +30,9 @@ Example list
 ```
 
 
-### Support or Contact
+### Support
 
-The [documentation](https://docs.github.com/categories/github-pages-basics/) provides instructions for use and [contact support](oncexchange@gmail.com) can answer questions. 
+**documentation** (https://www.rivtdocs.net/) 
+
+**contact** (mailto:oncexchange@gmail.com)
 
