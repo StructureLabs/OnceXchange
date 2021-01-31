@@ -32,7 +32,7 @@ Example list
 
 ### Support
 
-**documentation** (https://www.rivtdocs.net/) 
+**documentation** https://www.rivtdocs.net/ 
 
-**contact** (oncexchange@gmail.com)
+**contact** oncexchange@gmail.com
 
