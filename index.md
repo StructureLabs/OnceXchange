@@ -24,6 +24,10 @@ OnceXchange is a library of searchable lists containing links to GitHub reposito
 
 [OnceXchange-Euro-Building-Codes](https://github.com/StructureLabs/OnceXchange-Euro_Building_Codes/wiki)
 
+[OnceXchange-India-Building-Codes](https://github.com/StructureLabs/OnceXchange-India_Building_Codes/wiki)
+
+[OnceXchange-China-Building-Codes](https://github.com/StructureLabs/OnceXchange-China_Building_Codes/wiki)
+
 
 Each searchable example list includes numbered repository entries, ordered from most recent entered to earliest.  The repository link is provided in the first line of each entry followed by a few lines of example description and key words.  Clicking the link takes you to the repository where you can further review and download the files.
 
