@@ -1,6 +1,6 @@
 # Summary
 
-OnceXchange is a library of searchable lists containing links to GitHub repositories of example engineering calculations and models.  Each list contains links to plain text files (not binary) that are example calculations or models for a particular engineering software i.e. Matlab, SAP2000, OpenSees, Python, RivtCalc etc.  There are separate lists  for each engineering discipline or industry. Currently the links are required to connect to a Github repository. Each repository is released under the GPL3 license, which means the examples will always remain available as open source.
+OnceXchange is a library of searchable lists containing links to GitHub repositories of example engineering calculations and models.  Each list contains links to plain text files (not binary) that are example calculations or models for a particular engineering software i.e. Matlab, SAP2000, OpenSees, Python, RivtCalc etc.  There are separate lists  for each engineering discipline or industry. Currently the links are required to connect to a Github repository. Each repository is released under the GPL3 license, which means examples and subsequent improvements will always remain available as open source.
 
 [OnceXchange-Structural](https://github.com/StructureLabs/OnceXchange-Structural/wiki)
 
